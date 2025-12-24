@@ -167,13 +167,18 @@ footer{
 ```
 # OUTPUT:
 
+
 <img width="375" height="291" alt="image" src="https://github.com/user-attachments/assets/61d78b68-4a29-4633-9de4-f28a3a1dbb06" />
+
 
 <img width="470" height="350" alt="image" src="https://github.com/user-attachments/assets/f6b64ae3-61af-45cf-bbb5-04c2ce363538" />
 
+
 <img width="528" height="310" alt="image" src="https://github.com/user-attachments/assets/5bf31328-5b49-4a8e-830e-9a01164a1d1c" />
 
+
 <img width="454" height="331" alt="image" src="https://github.com/user-attachments/assets/71d7adb1-fbb6-497c-bcab-211cc66a871b" />
+
 
 <img width="612" height="348" alt="image" src="https://github.com/user-attachments/assets/e4877d68-5c2e-4bbb-99cb-8f797fe0b7b2" />
 
